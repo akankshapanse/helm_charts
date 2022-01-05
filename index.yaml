@@ -3,12 +3,12 @@ entries:
   example-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-05T02:10:34.563685253-05:00"
+    created: "2022-01-05T03:16:44.045704467-05:00"
     description: A Helm chart for Kubernetes
     digest: d9af1230d43fabe54502b626412d6d791459143166883f62e2b1c67bb0ad94cb
     name: example-helm-chart
     type: application
     urls:
-    - https://github.com/akankshapanse/helm_charts/example-helm-chart-0.1.0.tgz
+    - https://akankshapanse.github.io/helm_charts/example-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-05T02:10:34.563054925-05:00"
+generated: "2022-01-05T03:16:44.045099608-05:00"
