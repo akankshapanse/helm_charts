@@ -3,12 +3,23 @@ entries:
   example-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-05T03:16:44.045704467-05:00"
+    created: "2022-01-19T01:45:20.594276192-05:00"
     description: A Helm chart for Kubernetes
     digest: d9af1230d43fabe54502b626412d6d791459143166883f62e2b1c67bb0ad94cb
     name: example-helm-chart
     type: application
     urls:
-    - https://akankshapanse.github.io/helm_charts/example-helm-chart-0.1.0.tgz
+    - example-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-05T03:16:44.045099608-05:00"
+  infoscale-vtas:
+  - apiVersion: v2
+    appVersion: 8.0.0.0000
+    created: "2022-01-19T01:45:20.595884532-05:00"
+    description: A Helm chart for the deployment of Veritas InfoScale Resources
+    digest: e6b67757a7728e98f1a1b762eeec329f80b85f84044285454d6d408e56125ad3
+    name: infoscale-vtas
+    type: application
+    urls:
+    - infoscale-vtas-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-01-19T01:45:20.593454999-05:00"
